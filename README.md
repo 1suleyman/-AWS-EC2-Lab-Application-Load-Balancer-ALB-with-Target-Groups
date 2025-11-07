@@ -1,0 +1,2 @@
+# -AWS-EC2-Lab-Application-Load-Balancer-ALB-with-Target-Groups
+I deployed a complete Application Load Balancer (ALB) setup for two private EC2 instances using Terraform. I learned how to distribute traffic between multiple applications (on ports 80 and 8080) using path-based routing rules, created distinct target groups for each app, and verified that both endpoints respond correctly via the ALB DNS.
